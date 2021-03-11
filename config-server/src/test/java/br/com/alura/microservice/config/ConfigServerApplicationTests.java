@@ -1,4 +1,4 @@
-package br.com.alura.microservice.fornecedor;
+package br.com.alura.microservice.config;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class FornecedorApplicationTests {
+public class ConfigServerApplicationTests {
 
 	@Test
 	public void contextLoads() {
